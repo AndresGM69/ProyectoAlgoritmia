@@ -1,4 +1,4 @@
-print("Hola elimine un archivo y voy hacer un nuevo commit")
+print(" y voy hacer un nuevo commit")
 
 
 n= input("ingresa tu nombre: ")
